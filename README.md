@@ -1,15 +1,31 @@
 # Portafolio
 
-**Tecnologías utilizadas en el proyecto:**  
-<img src="https://img.icons8.com/color/344/html-5--v1.png" alt="html" width="50"/>
-<img src="https://img.icons8.com/color/344/css3.png" alt="css" width="50"/>
-<img src="https://img.icons8.com/color/344/javascript--v1.png" alt="JavaScript" width="50"/>
+¡Bienvenido a mi portafolio! Soy [Tu Nombre], un [Tu Profesión o Especialización] con experiencia en [Lenguajes, Herramientas, o Tecnologías]. Este es el lugar donde puedes ver algunos de mis proyectos más destacados y aprender más sobre mis habilidades.
 
----
+## 🚀 Sobre mí
 
-![portafolio-presentacion](https://user-images.githubusercontent.com/110046283/202334878-7ce721f1-db39-4388-bc39-8f9d141015a3.png)
+Soy [tu profesión, por ejemplo, "desarrollador web", "diseñador gráfico", etc.] con experiencia en [lenguajes o tecnologías que dominas, como HTML, CSS, JavaScript, Python, etc.]. Mi pasión es [describir brevemente lo que te apasiona de tu trabajo, como "crear aplicaciones web", "resolver problemas con código", etc.].
 
----
+## 💻 Proyectos
 
-[**Link del sitio web** ✌](https://mariana-am-portafolio.netlify.app/)
----
+Aquí están algunos de mis proyectos más recientes:
+
+### [Proyecto 1](https://github.com/tu-usuario/proyecto1)
+Descripción breve del proyecto. Aquí puedes explicar qué hace el proyecto, cómo lo construiste, o cualquier otra información relevante.
+
+### [Proyecto 2](https://github.com/tu-usuario/proyecto2)
+Descripción breve del proyecto.
+
+## 🛠 Habilidades
+
+- **Lenguajes**: HTML, CSS, JavaScript, Python, etc.
+- **Herramientas**: Git, GitHub, Visual Studio Code, etc.
+- **Frameworks**: React, Django, Bootstrap, etc.
+- **Otros**: [Cualquier otra habilidad relevante].
+
+## 📧 Contacto
+
+- Correo electrónico: [tu-email@dominio.com]
+- LinkedIn: [Tu perfil de LinkedIn](https://www.linkedin.com/in/tu-usuario)
+- GitHub: [Tu perfil de GitHub](https://github.com/tu-usuario)
+
